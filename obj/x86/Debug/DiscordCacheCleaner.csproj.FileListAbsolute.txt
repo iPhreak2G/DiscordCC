@@ -1,0 +1,7 @@
+c:\users\justin\documents\visual studio 2010\Projects\DiscordCacheCleaner\DiscordCacheCleaner\obj\x86\Debug\DiscordCacheCleaner.Form1.resources
+c:\users\justin\documents\visual studio 2010\Projects\DiscordCacheCleaner\DiscordCacheCleaner\obj\x86\Debug\DiscordCacheCleaner.Properties.Resources.resources
+c:\users\justin\documents\visual studio 2010\Projects\DiscordCacheCleaner\DiscordCacheCleaner\obj\x86\Debug\DiscordCacheCleaner.csproj.GenerateResource.Cache
+c:\users\justin\documents\visual studio 2010\Projects\DiscordCacheCleaner\DiscordCacheCleaner\bin\Debug\DiscordCacheCleaner.exe
+c:\users\justin\documents\visual studio 2010\Projects\DiscordCacheCleaner\DiscordCacheCleaner\bin\Debug\DiscordCacheCleaner.pdb
+c:\users\justin\documents\visual studio 2010\Projects\DiscordCacheCleaner\DiscordCacheCleaner\obj\x86\Debug\DiscordCacheCleaner.exe
+c:\users\justin\documents\visual studio 2010\Projects\DiscordCacheCleaner\DiscordCacheCleaner\obj\x86\Debug\DiscordCacheCleaner.pdb
